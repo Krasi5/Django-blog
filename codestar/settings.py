@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-jq^#i2(sjb00!=##u(sj_7=dky*%hu@apv70yzl6ceuk45mi2e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['Herokuapp', '127.0.0.1',]
 
